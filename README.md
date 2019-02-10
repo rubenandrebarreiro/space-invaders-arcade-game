@@ -1,1 +1,1 @@
-# space-invaders-game
+# Space Invaders Game
